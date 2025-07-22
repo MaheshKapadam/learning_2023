@@ -8,6 +8,8 @@ int max(int a, int b) {
     }
 }
 
+
+
 int Ternary(int a, int b) {
     int max = (a > b) ? a : b;
     return max;
